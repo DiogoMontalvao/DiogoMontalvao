@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Olar! Sou o Diogo Montalvão, desenvolvedor Android Nativo!</h2>
+    <h2>Diogo Montalvão, desenvolvedor Android Nativo!</h2>
 </div>
 
 <div align="center" style="display: inline_block">
