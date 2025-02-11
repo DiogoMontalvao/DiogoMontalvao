@@ -12,9 +12,5 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DiogoMontalvao&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMontalvao&layout=compact&theme=transparent" />
 </p>
